@@ -1,4 +1,4 @@
-# node-wesbos-course
+# Learn Node
 This will document my progress with the "Learn Node" Course with Wes Bos, where I will dive further into learning about Node, MongoDB, and Express
 
 [![](http://wes.io/kH9O/wowwwwwwwww.jpg)](https://LearnNode.com)
